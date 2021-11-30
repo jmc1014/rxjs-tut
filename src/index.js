@@ -1,4 +1,4 @@
-import './'
+import './async'
 
 document.addEventListener('DOMContentLoaded', function() {
     
